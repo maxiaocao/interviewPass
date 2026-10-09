@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>渔知天气 - 儿童隐私保护声明</title>
+<style>
+  body { font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #333; line-height: 1.8; }
+  h1 { font-size: 22px; text-align: center; }
+  p { text-align: justify; }
+  .date { text-align: right; color: #666; }
+</style>
+</head>
+<body>
+<h1>渔知天气 儿童隐私保护声明</h1>
+<p>渔知天气是由张洋洋（以下简称"我们"）提供的天气查询与渔获记录元服务。本声明说明我们对儿童个人信息的保护措施。</p>
+<p>渔知天气是一款面向成年钓鱼爱好者提供的天气查询与渔获记录元服务，不面向不满十四周岁的儿童，也不会主动收集儿童的个人信息。</p>
+<p>我们不会以任何方式请求儿童提供个人信息，亦不会将儿童作为目标用户进行画像分析或推送。</p>
+<p>若我们在不知情的情况下收集到儿童的个人信息，将在发现后及时删除相关信息。若您是儿童的监护人，发现您的孩子在未经您同意的情况下向我们提供了个人信息，可通过隐私声明中"如何联系我们"所述方式与我们联系，我们将在核实后尽快删除相关信息。</p>
+<p>我们建议监护人在日常生活中加强对未成年人使用本服务的引导与监督。</p>
+<p class="date">生效日期：2026-10-09</p>
+</body>
+</html>
